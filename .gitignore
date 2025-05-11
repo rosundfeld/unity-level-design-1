@@ -1,0 +1,84 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*
+/[Aa]ssets/StreamingAssets/
+
+/[Mm]emoryCaptures/
+/[Mm]emoryCaptures/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Crashlytics
+/[Ll]ibrary/CrashReports/
+
+# Auto-generated files
+/[Uu]ser[Ss]ettings/EditorUserSettings.asset
+/[Uu]ser[Ss]ettings/Layouts/*
+
+# Logs
+*.log
+
+# TextMesh Pro
+/[Aa]ssets/TextMesh Pro/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Unity Analytics
+/[Aa]ssets/Analytics/
+
+# Unity Asset Store
+/[Aa]ssets/AssetStoreTools
+
+# Unity Collaborate
+/[Aa]ssets/Collaborate/
+
+# Unity Cloud Build
+/[Bb]uilds/*
+
+# Packages
+/[Pp]ackages/manifest.json.meta
+/[Pp]ackages/packages-lock.json
+
+# Plastic SCM
+/.plastic/
+
+# Addressable Asset System
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*
+
+# LFS
+*.psd
+*.tga
+*.png
+*.jpg
+*.fbx
+*.anim
+*.mp4
+*.wav
+*.mp3
+*.aif
+*.ogg
